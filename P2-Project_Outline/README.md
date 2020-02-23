@@ -7,12 +7,12 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+This web app will allow users to find out how much it will cost them to renovate any given room in their house. Users will be able to input information about their room, as well as info about what kinds of materials they would like for the remodel. The app will give them an estimated price for the remodel based on this information. Users will also be able to enter their budgetary constraints and get information on how to renovate their room that satisfies those constraints.
 ### Features
-Include Features here
+Features include a database for storing client data regarding individual rooms, ability for client to “create” multiple rooms for a remodel, and ability to choose different materials for their renovation. Information regarding materials will be taken from online resources, so pricing will change on the web app as it changes in real time. Also, another feature might be to put in a price range for client’s budget and have the app return possible materials that fit into that price range. Also including user login so that client can come back to old projects later, make changes, etc.
 ### Technologies
-Include Technologies here
+Java, Spring MVC, MySQL, Angular, JavaScript
 ### What I'll Have to Learn
-Include what you will need to learn here
+How to combine the use of Java and Spring with JS and Angular. Also using data from a public web API to gather information from places like Home Depot, Lowe’s, etc.
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/YhlSNZc2/blake-group-project
